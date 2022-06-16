@@ -3,7 +3,8 @@ package com.Sel;
 public class Factotial {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub test
+		// TODO Auto-generated method stub test "
+		//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"
 		
 		int fact=1;
 		
